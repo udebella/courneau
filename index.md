@@ -34,7 +34,7 @@ Du matériel de puériculture peut être mis à votre disposition sur demande :
 * Chaise haute
 * Petite baignoire
 
-{% include carousel.html height="200" unit="px" duration="7" %}
+{% include carousel.html height="50" unit="%" duration="7" %}
 
 ## Emplacement
 
