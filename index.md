@@ -1,5 +1,6 @@
 --
 title: Domaine de Courneau
+photos: [ ./photos/piscine.png, ./photos/jardin.png, ./photos/salon.png ]
 --
 
 ## Présentation
@@ -29,7 +30,7 @@ Du matériel de puériculture peut être mis à votre disposition sur demande :
 * Chaise haute
 * Petite baignoire
 
-{% include carousel.html dir="photos" %}
+{% include carousel.html height="200" unit="px" duration="7" images="photos" %}
 
 ## Emplacement
 
