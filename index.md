@@ -2,9 +2,9 @@
 title: Domaine de Courneau
 carousels:
   - images:
-      - image: /photos/piscine.png
-      - image: /photos/jardin.png
-      - image: /photos/salon.png
+      - image: ./photos/piscine.png
+      - image: ./photos/jardin.png
+      - image: ./photos/salon.png
 ---
 
 ## Présentation
