@@ -47,8 +47,8 @@ const initMap = () => {
         minZoom: 1,
         maxZoom: 20
     }).addTo(map);
-    L.marker([lat, lon]).addTo(macarte)
-}
+    L.marker([lat, lon]).addTo(map);
+};
 window.onload = initMap
 </script>
 
