@@ -1,7 +1,3 @@
---
-title: Domaine de Courneau
---
-
 ## Présentation
 
 Située sur la Commune de Narbonne,
