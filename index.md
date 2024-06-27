@@ -25,6 +25,12 @@ Du matériel de puériculture peut être mis à votre disposition sur demande :
 * Petite baignoire
 
 ## Emplacement
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
+<style type="text/css">
+#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
+    height:400px;
+}
+</style>
 <div id="map"></div>
 
 <!-- Fichiers Javascript -->
