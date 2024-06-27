@@ -1,3 +1,12 @@
+---
+title: Domaine de Courneau
+carousels:
+  - images:
+      - image: /photos/piscine.png
+      - image: /photos/jardin.png
+      - image: /photos/salon.png
+---
+
 ## Présentation
 
 Située sur la Commune de Narbonne,
